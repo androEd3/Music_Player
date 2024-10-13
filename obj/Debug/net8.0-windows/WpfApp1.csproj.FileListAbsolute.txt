@@ -1,0 +1,524 @@
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\App.baml
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Build.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Build.Framework.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Components.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Contracts.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\SqlPackage.exe
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Utilities.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Dac.Extensions.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Dac.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-Hant\SqlPackage.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-CN\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-CN\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-TW\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-TW\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\Enter.g.cs
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\regestration.g.cs
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\Enter.baml
+C:\Users\user\Desktop\Новая папка\WpfApp1\obj\Debug\net8.0-windows\regestration.baml
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Build.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Build.Framework.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Components.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Contracts.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Tasks.Sql.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Utilities.Sql.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\SqlPackage.exe
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Data.Tools.Utilities.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.Dac.Extensions.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.Dac.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.ComponentModel.Composition.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hans\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Schema.Tasks.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.Tools.Schema.Utilities.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-Hant\SqlPackage.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\de-DE\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\es-ES\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\fr-FR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\it-IT\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ja-JP\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ko-KR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\ru-RU\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-CN\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-CN\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-CN\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-TW\Microsoft.Data.Tools.Schema.Sql.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-TW\Microsoft.Data.Tools.Utilities.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.Dac.Extensions.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.Dac.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\zh-TW\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\App.baml
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\Enter.g.cs
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\regestration.g.cs
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\Enter.baml
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\regestration.baml
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\andro\OneDrive\Рабочий стол\Новая папка\obj\Debug\net8.0-windows\ref\WpfApp1.dll
